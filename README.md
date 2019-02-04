@@ -1,3 +1,16 @@
-# Chatkit-chat-react
-This project buildd on chatkit API to create a react chat app.
-Feel free to clone and extend on its functionalities.
+# Outro
+
+Quick start:
+
+```
+$ npm install
+$ npm run build
+````
+
+## Development
+
+Run Webpack in watch-mode to continually compile the JavaScript as you work:
+
+```
+$ npm run watch
+```
